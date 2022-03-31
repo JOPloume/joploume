@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/julia-ostheimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julia-ostheimer" height="30" width="40" /></a>
 <a href="https://medium.com/@ostheimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ostheimer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/julia_ostheimer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="julia_ostheimer" height="30" width="40" /></a>
-<a href="https://kaggle.com/joploume" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joploume" height="30" width="40" /></a>
 </p>
 
 
