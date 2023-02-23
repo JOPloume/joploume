@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **how to tackle AI use cases, Ethics & AI**
 
-- 🌱 I’m currently learning **End-to-End Machine Learning**
+- 🌱 I’m currently learning about **Prompt Engineering and NLP Use Cases**
 
 - ⚡ Fun fact: **I produce electronic pop music in my free time 🎹**
 
