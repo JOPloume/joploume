@@ -1,5 +1,5 @@
-<h1 align="left">Nice to e-meet you, I'm Julia! 👋</h1>
-<h3 align="left">A foodie that is hungry for AI use cases that will save the world! 🌍</h3>
+# Nice to e-meet you, I'm Julia! 👋</h1>
+## A foodie that is hungry for AI use cases that will save the world! 🌍</h3>
 
 <br />
 
