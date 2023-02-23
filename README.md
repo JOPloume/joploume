@@ -1,8 +1,5 @@
-# Nice to e-meet you, I'm Julia! 👋</h1>
-## A foodie that is hungry for AI use cases that will save the world! 🌍</h3>
-
-<br />
-
+# Nice to e-meet you, I'm Julia! 👋
+## A foodie that is hungry for AI use cases that will save the world! 🌍
 
 - 💬 Ask me about **how to tackle AI use cases, Ethics & AI**
 
@@ -10,7 +7,6 @@
 
 - ⚡ Fun fact: **I produce electronic pop music in my free time 🎹**
 
--------
 
 ## How to reach out to me? 📣
 
